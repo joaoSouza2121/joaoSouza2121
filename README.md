@@ -1,4 +1,4 @@
-- 👋 João Souza
+- 👋 
 Sou recém-formado em ciência de dados em busca de oportunidades e colaboração em projetos relacionados a ciência de dados e aprendizado de máquina e aprendizado profundo Deep Learn.
 - 🌱 Aprimorando Atualmente aprimorando meu aprendizado em visualização e design de dashboard
 	 aprofundando o conhecimento em estatística e estrutura de dados com python.
