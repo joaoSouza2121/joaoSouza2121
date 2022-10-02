@@ -7,8 +7,8 @@ Sou recém-formado em ciência de dados em busca de oportunidades e colaboraçã
 - 📫 onde me encontrar:
 - joaosouzaps9@gmail.com
 - wht 31991860903
-- Atualmente trabalho como motorista uber.
-- Mas gostaria muito de ingressar na área de tecnologia.
+- Analista de E-commerce na AVC.
+
 
 <!---
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
